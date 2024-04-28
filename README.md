@@ -16,8 +16,6 @@ so mainly there were two problems
 
 ### Problem with browser extensions 
 
-if you have a problem with porn or (maybe not then also...) you maybe searching for something or maybe just surfing on quora or anything else, and this small thought about sex, full of curiosity came in your mind and you searched for it... or maybe an image just appeared that you found arousing and then just 5 seconds after that moment your brain is done releasing those hormones - Dopamine (naam to suna hoga...), Noradrinaline, the one responsible for taking an action and many others...
-
 - If one ever wanted to watch porn they can simply disable them and watch porn
 
 - you know instagram :), it has pornographic images and videos, I mean a lotttt... of source of adult content whether it be in a form of an image, video or link for those kinda content on cloud storage (Mega etc.) you can get such kind of images even more intense on quora that we expect is a platform for sharing openions, experience,facts and knowledge.
@@ -36,7 +34,7 @@ so the extensions weren't able to block them in my case (neither was MFS able to
 IF you have read "the problem" part you should understand that this is a flaw that should not be handled by checking if the XYZ.fit has NSFW content or not, they might be directing you to some other site, or it can be an 18+ movie containing pornographic scenes.
 Or maybe some social media site has this kind of content...
 
-####so it should be handled graphically.
+#### so it should be handled graphically.
 
 let me tell you what I mean... what if somebody's parents are sitting next to them will that person be able to watch porn? NO not even by mistake XD.
 
