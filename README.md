@@ -1,3 +1,4 @@
+this project is expecting contribuution, if you want to contributr you may read the ###Solution part or if you want to go in details of this projrct you may continue from ###The Problem
 # Let's come to the point
 
 - I tried to block porn in every way possible from installing browser extensions, using every free pornblocker to creating another user account in my PC and using Microsoft family safety to protect myself from watching porn and blocking it network wide from my router by configuring DNS etc.
